@@ -12,7 +12,7 @@ I'm currently working as a data engineer in India, where my journey involves bot
 - I'm exploring different tools and frameworks to enhance my skill set.
 - I'm an early riser, always driven and constantly learning in tech.
 
-## Skills
+## 💻 Skills
 
 
 <p align="left">
